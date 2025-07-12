@@ -37,22 +37,6 @@
 
 ---
 
-### 💼 Projects
-
-📌 **AI Chat App**  
-MERN stack app with ChatGPT API integration & real-time messaging
-
-📌 **Smart Attendance System**  
-Face recognition-based attendance management using Python & OpenCV
-
-📌 **Job Listing Portal**  
-A full-stack platform for job search and posting
-
-📌 **CS Learning Platform**  
-Resources, notes & guides for IT students built with React + Tailwind
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
